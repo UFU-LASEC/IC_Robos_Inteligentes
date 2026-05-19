@@ -73,7 +73,12 @@ Robô controlado remotamente por smartphone através de comunicação Bluetooth.
 
 ```txt
 .
-├── robo-sumo/
-├── desvia-obstaculo/
-├── controle-bluetooth/
-└── docs/
+├── Robo_Sumo/
+  └── codigo.ino
+  └── esquematico.png
+├── Robo_Desvia_Obstaculos/
+  └── codigo.ino
+  └── esquematico.png
+├── Robo_Controle_Remoto/
+  └── codigo.ino
+  └── esquematico.png
