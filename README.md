@@ -72,7 +72,6 @@ Robô controlado remotamente por smartphone através de comunicação Bluetooth.
 # 📚 Organização do Repositório
 
 ```txt
-.
 ├── Robo_Sumo/
   └── codigo.ino
   └── esquematico.png
